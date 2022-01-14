@@ -1,0 +1,9 @@
+
+  @font-face {
+    font-family: digitalBold; 
+    src: url('./DigitalBold.ttf')
+  }
+  .digitalBoldFont{
+    font-family: digitalBold;
+    font-size: 24px;
+  }
